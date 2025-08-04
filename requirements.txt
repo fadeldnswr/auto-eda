@@ -1,0 +1,10 @@
+pandas
+matplotlib
+seaborn
+numpy
+fastapi
+uvicorn
+pydantic
+python-dotenv
+supabase
+sqlmodel
